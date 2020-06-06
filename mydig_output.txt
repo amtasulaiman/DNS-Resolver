@@ -1,0 +1,6 @@
+
+QUESTION SECTION:www.cnn.com. IN A
+ANSWER SECTION: www.cnn.com. 300 IN CNAME turner-tls.map.fastly.net.
+Query time:320.0seconds
+WHEN: '2019-03-11 20:15:02.618193'
+MSG SIZE rcvd: 52
